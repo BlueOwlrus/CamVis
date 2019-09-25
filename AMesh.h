@@ -1,6 +1,3 @@
-//
-// Created by Fis on 09.12.2016.
-//
 
 #ifndef CAMVIS_AMESH_H
 #define CAMVIS_AMESH_H
