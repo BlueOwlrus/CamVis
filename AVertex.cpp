@@ -1,6 +1,3 @@
-//
-// Created by Fis on 09.12.2016.
-//
 
 #include "AMesh.h"
 #include "AVertex.h"
