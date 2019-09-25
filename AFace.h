@@ -1,6 +1,3 @@
-//
-// Created by Fis on 09.12.2016.
-//
 
 #ifndef CAMVIS_AFACE_H
 #define CAMVIS_AFACE_H
