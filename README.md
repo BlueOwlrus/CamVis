@@ -17,7 +17,7 @@ Student project. Implements a mesh clipping algorithm (boolean operation of 2 po
 
 
 
-Симуляция на основе простого G-кода.
+Симуляция на основе простого G-кода. (небольшие запаздывания отсечения, которые видны как артефакты на втором проходе, можно убрать, если выставить выше частоту отсечений. Влияет на производительность.)
 ![](https://raw.githubusercontent.com/BlueOwlrus/CamVis/master/Pics/CamVisAnim2.gif)
 
 
