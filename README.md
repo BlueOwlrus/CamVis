@@ -17,8 +17,9 @@ Student project. Implements a mesh clipping algorithm (boolean operation of 2 po
 
 
 
-Анимация Симуляция на основе G-кода
+Симуляция на основе простого G-кода.
 ![](https://raw.githubusercontent.com/BlueOwlrus/CamVis/master/Pics/CamVisAnim2.gif)
+
 
 
 Тот же базовый блок, но в качестве отсекателя - низкополигональная сфера.
